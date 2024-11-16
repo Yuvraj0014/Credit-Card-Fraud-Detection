@@ -44,7 +44,7 @@ streamlit run app.py
 ## Results 
 Too lazy to adult today? Join the club! Ditch the to-do list and dive into the Streamlight app instead. It's right here, waiting for you!
 ```
-customer-churn-prediction-using-ann.streamlit.app
+simple-credit-card-fraud-detection.streamlit.app
 ```
 
 
@@ -198,6 +198,8 @@ streamlit run app.py
    - Update feature importance periodically
 
 ## Output Explanation
+![image](https://github.com/user-attachments/assets/3982e3e3-c109-4ef9-8d76-53ddddf4638b)
+![image](https://github.com/user-attachments/assets/3716720d-0bb5-4ac3-ad12-6e26504c7754)
 
 ---
 *Note: This project is for educational purposes and should not be used as the sole decision-maker for credit evaluation.*
