@@ -3,6 +3,52 @@
 ## 📊 Project Overview
 This project implements a machine learning model to predict credit card default probability. It uses a Random Forest Classifier to analyze various customer attributes and payment patterns to assess the likelihood of credit default.
 
+## 💻 Requirements
+
+1. tensorflow
+2. pandas
+3. numpy
+4. scikit-learn
+5. tensorboard
+6. matplotlib
+7. streamlit
+8. scikeras
+
+## Installation
+To run the project locally, follow these steps:
+
+1. Clone the repository:
+
+```cmd
+git clone https://github.com/Yuvraj0014/Credit-Card-Fraud-Detection.git
+Credit-Card-Fraud-Detection
+```
+
+2. Setup a virtual environment (optional but recommended)
+```cmd
+python -m venv venv
+source venv/bin/activate  # For Linux/MacOS
+venv\Scripts\activate  # For Windows
+```
+
+3. Install required dependencies
+```cmd
+pip install -r requirements.txt
+```
+
+4. Run the streamlit app
+```cmd
+streamlit run app.py
+```
+
+## Results 
+Too lazy to adult today? Join the club! Ditch the to-do list and dive into the Streamlight app instead. It's right here, waiting for you!
+```
+customer-churn-prediction-using-ann.streamlit.app
+```
+
+
+
 ## 🚀 Features
 The application considers multiple features across different categories to make predictions:
 
@@ -151,19 +197,7 @@ streamlit run app.py
    - Monitor prediction accuracy
    - Update feature importance periodically
 
-## 👥 Contributing
-Feel free to fork the repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
-
-## 📝 License
-[Your chosen license]
-
-## 📧 Contact
-[Your contact information]
-
-## 🙏 Acknowledgments
-- Credit card default dataset providers
-- Streamlit for the web interface framework
-- scikit-learn for machine learning tools
+## Output Explanation
 
 ---
 *Note: This project is for educational purposes and should not be used as the sole decision-maker for credit evaluation.*
