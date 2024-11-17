@@ -129,32 +129,6 @@ The model provides:
    - Consistency in payments
    - Payment timing patterns
 
-## 🛠 Technical Implementation
-
-### Requirements
-```
-streamlit
-pandas
-scikit-learn
-numpy
-```
-
-### Installation & Setup
-1. Clone the repository:
-```bash
-git clone [your-repository-url]
-```
-
-2. Install required packages:
-```bash
-pip install -r requirements.txt
-```
-
-3. Run the Streamlit app:
-```bash
-streamlit run app.py
-```
-
 ### File Structure
 ```
 ├── README.md
