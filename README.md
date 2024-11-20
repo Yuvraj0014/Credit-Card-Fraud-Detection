@@ -1,4 +1,4 @@
-# Credit Card Default Detection hi hello how r
+# Credit Card Default Detection hi hello
 
 ## 📊 Project Overview
 This project implements a machine learning model to predict credit card default probability. It uses a Random Forest Classifier to analyze various customer attributes and payment patterns to assess the likelihood of credit default.
