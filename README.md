@@ -21,7 +21,7 @@ To run the project locally, follow these steps:
 
 ```cmd
 git clone https://github.com/Yuvraj0014/Credit-Card-Fraud-Detection.git
-Credit-Card-Fraud-Detection
+cd Credit-Card-Fraud-Detection
 ```
 
 2. Setup a virtual environment (optional but recommended)
