@@ -177,3 +177,5 @@ The model provides:
 
 ---
 *Note: This project is for educational purposes and should not be used as the sole decision-maker for credit evaluation.*
+
+## In the app, the predictions should be easy to understand and not every column should be considered for predictions. Some of them may be omitted if they are not of utmost importance. So remove all the bill_amt pay_amt and others. Instead you can give users a chance to make use of different ML algorithms and their respective hyperparameters. This makes the users feel that the project is under their control. Think about it and make necessary changes
